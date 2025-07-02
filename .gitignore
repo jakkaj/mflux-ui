@@ -1,0 +1,4 @@
+outputs/*
+.claude/*
+doco.md
+.env
